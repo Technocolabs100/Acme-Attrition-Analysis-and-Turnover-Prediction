@@ -1,0 +1,5 @@
+Attrition - Employee leave the company 
+Layoff --> Company Make Employee Leave
+
+
+Employee Attrition Analysis and Prediction
